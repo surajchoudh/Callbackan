@@ -13,7 +13,7 @@ function countdown(num, callback) {
 
 countdown(10, function () {
     const countdownContainer = document.getElementById('countdown-container');
-    countdownContainer.textContent = "Happy Independence Day";
+    countdownContainer.textContent = "Happy Independence Day-";
 });
 
 
